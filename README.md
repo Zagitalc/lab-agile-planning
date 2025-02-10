@@ -17,3 +17,43 @@ This repository exemplifies the following core Agile concepts:
 ## User Story Template
 
 The following template is provided as a guideline for creating new user stories within this project:
+```gerkin
+Given [some context]
+When [certain action is taken]
+Then [the outcome of action is observed]
+
+```
+
+## Kanban Board Structure
+
+The Kanban board is organized into the following columns, representing the stages of the development workflow:
+
+1.  **New Issues:**  Newly created issues that have not yet been prioritized or assigned.
+2.  **Backlog:** Issues that are deemed valuable but are not yet scheduled for active development.  This is a general backlog.
+3.  **Product Backlog:**  A more refined backlog, representing items that are likely to be included in future sprints.
+4.  **Sprint Backlog:** Issues selected for active development within a specific sprint (implicitly defined).
+5.  **In Progress:** Issues currently being worked on.
+6.  **Review/QA:**  Issues that have been completed and are awaiting review or quality assurance testing.
+7.  **Done:**  Issues that have been successfully completed and verified.
+
+## How to Use This Repository
+
+This repository can be used in several ways:
+
+*   **Learning Resource:**  Explore the existing issues and the Kanban board to understand how Agile principles are applied in a practical setting.
+*   **Template:**  Fork this repository to create your own Agile project, adapting the structure and templates to your specific needs.
+*   **Practice:**  Create new issues based on hypothetical scenarios, assign them to yourself or others, and move them through the Kanban board to simulate the Agile workflow.
+
+## Contributing
+
+While this repository is primarily intended as a demonstration, contributions that improve the clarity, accuracy, or usefulness of the example are welcome.  Please follow these guidelines:
+
+1.  **Fork the repository.**
+2.  **Create a new branch** for your changes.
+3.  **Make your changes** and commit them with clear, concise messages.
+4.  **Submit a pull request** for review.
+
+## Further Development.
+There may be room for further development. One suggestion could be simulating sprint cycles.
+
+
