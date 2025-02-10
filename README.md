@@ -41,7 +41,7 @@ assignees: ''
  Then [the outcome of action is observed]
  ```
 ---
-## Kanban Board Structure
+# Kanban Board Structure
 
 The Kanban board is organized into the following columns, representing the stages of the development workflow:
 
