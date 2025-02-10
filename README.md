@@ -2,6 +2,8 @@
 
 # Lab Agile Planning: A Practical Exercise in Agile Project Management
 
+**This material is provided as part of the "Introduction to Agile Development and Scrum" course offered by IBM on Coursera.**
+
 This repository serves as a practical demonstration and working example of Agile project management principles, specifically utilizing a Kanban-style board for task tracking and progress visualization.  It showcases a typical workflow, from initial issue creation to task completion, within a simulated project environment.  The core focus is on applying user stories, acceptance criteria, and iterative development in a clear and accessible manner.
 
 ## Key Concepts Demonstrated
