@@ -17,13 +17,30 @@ This repository exemplifies the following core Agile concepts:
 ## User Story Template
 
 The following template is provided as a guideline for creating new user stories within this project:
-```gerkin
-Given [some context]
-When [certain action is taken]
-Then [the outcome of action is observed]
+---
+name: User Story
+about: This template is for creating user stories
+title: ''
+labels: ''
+assignees: ''
 
-```
+---
 
+**As a** [role]  
+ **I need** [function]  
+ **So that** [benefit]  
+   
+ ### Details and Assumptions
+ * [document what you know]
+   
+ ### Acceptance Criteria  
+   
+ ```gherkin
+ Given [some context]
+ When [certain action is taken]
+ Then [the outcome of action is observed]
+ ```
+---
 ## Kanban Board Structure
 
 The Kanban board is organized into the following columns, representing the stages of the development workflow:
