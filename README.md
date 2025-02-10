@@ -70,7 +70,7 @@ While this repository is primarily intended as a demonstration, contributions th
 3.  **Make your changes** and commit them with clear, concise messages.
 4.  **Submit a pull request** for review.
 
-## Further Development.
-There may be room for further development. One suggestion could be simulating sprint cycles.
+
+There may be room for further development.
 
 
